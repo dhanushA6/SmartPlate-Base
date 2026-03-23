@@ -13,3 +13,5 @@ MacroNutritionPrediction/weights/Ridge_pipeline.pkl
 MacroNutritionPrediction/weights/ExtraTrees_pipeline.pkl
 MacroNutritionPrediction/weights/ElasticNet_pipeline.pkl
 
+MacroNutritionPrediction/userDataGeneration.ipynb
+
