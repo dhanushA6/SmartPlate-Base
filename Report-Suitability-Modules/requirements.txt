@@ -1,0 +1,4 @@
+google-generativeai
+google-cloud-documentai
+python-dotenv
+pydantic>=2

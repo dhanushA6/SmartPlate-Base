@@ -1,0 +1,192 @@
+{
+  "title": "Evidence-Based Metabolic Health, Obesity, and Diabetes Risk Module",
+  "context": "Guideline-Aligned Scientific Knowledge for Weight Management and Metabolic Risk in Indian and South Asian Adults",
+  "version": "Clinical-Grade RAG Injection Dataset",
+
+  "authoritative_sources": [
+    "World Health Organization (WHO) Obesity and Physical Activity Guidelines",
+    "International Diabetes Federation (IDF) Diabetes Atlas",
+    "American Diabetes Association (ADA) Standards of Care",
+    "Indian Council of Medical Research (ICMR) Guidelines for Diabetes",
+    "National Institute of Nutrition (India)"
+  ],
+
+  "sections": [
+
+    {
+      "section_number": 1,
+      "section_title": "Global and Indian Burden of Obesity and Diabetes",
+      "content": {
+        "global_context": "Obesity is a major modifiable risk factor for Type 2 Diabetes Mellitus and cardiovascular disease.",
+        "india_specific": "India has one of the largest populations of individuals with diabetes globally.",
+        "south_asian_phenotype": [
+          "Higher visceral adiposity at lower BMI",
+          "Higher insulin resistance",
+          "Earlier onset of Type 2 diabetes",
+          "Higher cardiometabolic risk"
+        ],
+        "public_health_concern": "Urbanization, sedentary occupations, high refined carbohydrate intake, and reduced physical activity contribute significantly."
+      }
+    },
+
+    {
+      "section_number": 2,
+      "section_title": "Pathophysiology of Obesity-Induced Insulin Resistance",
+      "content": {
+        "mechanism": [
+          "Visceral adipose tissue releases inflammatory cytokines (TNF-alpha, IL-6).",
+          "Chronic inflammation impairs insulin signaling pathways.",
+          "Free fatty acids increase hepatic glucose production.",
+          "Pancreatic beta-cell stress leads to progressive dysfunction."
+        ],
+        "clinical_consequence": [
+          "Elevated fasting glucose",
+          "Postprandial hyperglycemia",
+          "Elevated HbA1c",
+          "Metabolic syndrome"
+        ]
+      }
+    },
+
+    {
+      "section_number": 3,
+      "section_title": "Energy Homeostasis and Hormonal Regulation",
+      "content": {
+        "key_hormones": [
+          "Insulin – regulates glucose uptake",
+          "Leptin – regulates satiety",
+          "Ghrelin – stimulates hunger",
+          "Cortisol – stress hormone influencing glucose",
+          "Thyroid hormones – regulate metabolic rate"
+        ],
+        "obesity_effect": [
+          "Leptin resistance reduces satiety signaling.",
+          "Chronic stress increases cortisol, promoting abdominal fat storage.",
+          "Insulin resistance increases fat accumulation."
+        ]
+      }
+    },
+
+    {
+      "section_number": 4,
+      "section_title": "Clinical Classification of Obesity in Asian Populations",
+      "content": {
+        "bmi_cutoffs_asian": {
+          "normal": "18.5–22.9 kg/m²",
+          "overweight": "23–24.9 kg/m²",
+          "obese": "≥25 kg/m²"
+        },
+        "waist_circumference": {
+          "men": ">90 cm",
+          "women": ">80 cm"
+        },
+        "clinical_guidance": "Central obesity assessment is mandatory in South Asian populations."
+      }
+    },
+
+    {
+      "section_number": 5,
+      "section_title": "Caloric Restriction and Evidence-Based Weight Reduction",
+      "content": {
+        "recommended_deficit": "500–750 kcal/day deficit for moderate weight loss.",
+        "expected_loss": "0.5–1 kg per week depending on adherence.",
+        "long_term_goal": "5–10% weight reduction improves metabolic markers.",
+        "evidence_based_outcomes": [
+          "Improved insulin sensitivity",
+          "Reduced HbA1c",
+          "Lower triglycerides",
+          "Reduced blood pressure"
+        ]
+      }
+    },
+
+    {
+      "section_number": 6,
+      "section_title": "Physical Activity and Metabolic Improvement",
+      "content": {
+        "who_guideline": "150–300 minutes moderate intensity per week.",
+        "metabolic_benefits": [
+          "Increases GLUT4 transporter activity in muscles",
+          "Enhances glucose disposal",
+          "Reduces visceral fat",
+          "Improves endothelial function"
+        ],
+        "resistance_training": "Preserves lean mass and improves insulin sensitivity."
+      }
+    },
+
+    {
+      "section_number": 7,
+      "section_title": "Dietary Composition and Weight Control",
+      "content": {
+        "macronutrient_balance": {
+          "carbohydrates": "45–60%",
+          "protein": "15–20%",
+          "fat": "20–35%"
+        },
+        "indian_context_risk": [
+          "High white rice intake",
+          "Low protein consumption",
+          "High glycemic load meals"
+        ],
+        "recommended_modifications": [
+          "Replace polished rice with millets or brown rice.",
+          "Increase protein intake.",
+          "Increase fiber to 25–40 g/day."
+        ]
+      }
+    },
+
+    {
+      "section_number": 8,
+      "section_title": "Visceral Fat and Cardiometabolic Risk",
+      "content": {
+        "risk_association": [
+          "Coronary artery disease",
+          "Stroke",
+          "Hypertension",
+          "Fatty liver disease"
+        ],
+        "diagnostic_indicators": [
+          "Waist-to-height ratio ≥0.5",
+          "Elevated triglycerides",
+          "Low HDL cholesterol",
+          "Elevated fasting glucose"
+        ]
+      }
+    },
+
+    {
+      "section_number": 9,
+      "section_title": "Limitations of BMI as a Sole Indicator",
+      "content": {
+        "limitations": [
+          "Cannot assess body fat percentage",
+          "Cannot measure fat distribution",
+          "Underestimates risk in South Asians"
+        ],
+        "recommended_combination": [
+          "BMI",
+          "Waist circumference",
+          "Waist-to-height ratio",
+          "Blood metabolic markers"
+        ]
+      }
+    },
+
+    {
+      "section_number": 10,
+      "section_title": "Weight Loss and Diabetes Remission",
+      "content": {
+        "early_type2": "Significant weight loss (>10%) may induce remission in early Type 2 diabetes under medical supervision.",
+        "mechanism": [
+          "Reduction in liver fat",
+          "Improved beta-cell function",
+          "Improved insulin sensitivity"
+        ],
+        "important_note": "Remission does not equal cure; long-term monitoring required."
+      }
+    }
+
+  ]
+}

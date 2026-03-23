@@ -1,0 +1,15 @@
+# Environment / secrets
+DiabeticsAssistantRAG-Nalam/.env
+Report-Suitability-Modules/.env
+
+# Local ChromaDB artifacts
+DiabeticsAssistantRAG-Nalam/nalam_chroma_db/chroma.sqlite3
+DiabeticsAssistantRAG-Nalam/nalam_chroma_db/f88e8bc9-ea3c-4c9b-9011-53e046a7ca9c/
+
+# Macro prediction model weights (keep out of version control)
+MacroNutritionPrediction/weights/RandomForest_pipeline.pkl
+MacroNutritionPrediction/weights/XGBoost_pipeline.pkl
+MacroNutritionPrediction/weights/Ridge_pipeline.pkl
+MacroNutritionPrediction/weights/LightGBM_pipeline.pkl
+MacroNutritionPrediction/weights/ExtraTrees_pipeline.pkl
+

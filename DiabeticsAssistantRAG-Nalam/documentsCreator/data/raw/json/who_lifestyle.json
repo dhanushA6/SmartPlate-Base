@@ -1,0 +1,403 @@
+{
+  "title": "WHO-Based Healthy Lifestyle Guidance",
+  "context": "Context for Indian and South Indian Adults",
+  "version": "RAG Injection Knowledge Base",
+  "sections": [
+    {
+      "section_number": 1,
+      "section_title": "Foundational Source Authority",
+      "content": {
+        "based_on_organizations": [
+          "World Health Organization",
+          "International Diabetes Federation",
+          "Indian Council of Medical Research",
+          "National Institute of Nutrition"
+        ],
+        "primary_guidelines_referenced": [
+          "WHO Healthy Diet Guidelines",
+          "WHO Physical Activity Guidelines (2020)",
+          "WHO Global Report on Diabetes",
+          "WHO Cardiovascular Disease Prevention Guidelines"
+        ]
+      }
+    },
+    {
+      "section_number": 2,
+      "section_title": "Core Principles of a Healthy Lifestyle (WHO Framework)",
+      "content": {
+        "principles": [
+          "Balanced nutrition",
+          "Regular physical activity",
+          "Healthy body weight maintenance",
+          "Adequate sleep",
+          "Stress management",
+          "Avoidance of tobacco",
+          "Limited alcohol intake",
+          "Regular medical screening"
+        ]
+      }
+    },
+    {
+      "section_number": 3,
+      "section_title": "Healthy Diet Guidelines (WHO Adapted for Indian Context)",
+      "subsections": [
+        {
+          "subsection": "3.1 Energy Balance",
+          "content": {
+            "description": "Maintain energy intake equal to energy expenditure to prevent overweight and obesity.",
+            "indian_adults_recommendation": {
+              "sedentary_male": "2000–2400 kcal/day",
+              "sedentary_female": "1600–2000 kcal/day",
+              "active_individuals_extra": "+300–500 kcal"
+            }
+          }
+        },
+        {
+          "subsection": "3.2 Macronutrient Distribution (Recommended Range)",
+          "content": {
+            "carbohydrates": "45–60% of total calories",
+            "protein": "15–20%",
+            "fat": "20–35%",
+            "fiber": "≥25–40 g/day",
+            "note": "For Indians, lower refined carbohydrate intake is strongly recommended due to high insulin resistance prevalence."
+          }
+        },
+        {
+          "subsection": "3.3 Carbohydrate Guidance (Critical for Indian Population)",
+          "content": {
+            "avoid_or_limit": [
+              "Polished white rice (especially large portions)",
+              "Refined wheat (maida)",
+              "White bread",
+              "Sugary tea/coffee",
+              "Sweets (laddu, jalebi, mysore pak)",
+              "Sweetened beverages",
+              "Fruit juices"
+            ],
+            "prefer": [
+              "Brown rice",
+              "Parboiled rice",
+              "Millets (ragi, foxtail millet, kambu, jowar)",
+              "Whole wheat chapati",
+              "Oats",
+              "Broken wheat (dalia)",
+              "Red rice",
+              "Hand-pounded rice"
+            ],
+            "south_indian_recommendation": "Replace 50% white rice with millets or unpolished rice."
+          }
+        },
+        {
+          "subsection": "3.4 Fat Intake",
+          "content": {
+            "who_recommendation": {
+              "total_fat": "<30% of energy",
+              "saturated_fat": "<10%",
+              "trans_fat": "<1%"
+            },
+            "limit": [
+              "Ghee (large quantities)",
+              "Butter",
+              "Vanaspati",
+              "Deep-fried snacks (bajji, bonda, vada)",
+              "Bakery products"
+            ],
+            "prefer": [
+              "Groundnut oil (limited)",
+              "Mustard oil",
+              "Sesame oil (traditional South Indian use)",
+              "Rice bran oil",
+              "Nuts (almonds, walnuts)",
+              "Seeds (flax, chia)"
+            ],
+            "note": "Avoid reheating oil multiple times."
+          }
+        },
+        {
+          "subsection": "3.5 Protein Intake",
+          "content": {
+            "requirement": "0.8–1.2 g/kg body weight (higher if elderly or diabetic)",
+            "vegetarian_sources": [
+              "Toor dal",
+              "Moong dal",
+              "Channa",
+              "Rajma",
+              "Black channa",
+              "Soybean",
+              "Paneer (low-fat)",
+              "Curd"
+            ],
+            "non_vegetarian_sources": [
+              "Fish (especially sardines, mackerel)",
+              "Egg whites",
+              "Skinless chicken"
+            ],
+            "avoid": [
+              "Processed meats"
+            ],
+            "south_indian_advice": "Include sambar + vegetable + protein in every major meal."
+          }
+        },
+        {
+          "subsection": "3.6 Fruits and Vegetables",
+          "content": {
+            "who_recommendation": "≥400 g per day (5 portions minimum)",
+            "indian_adaptation": [
+              "2 portions vegetables",
+              "1 leafy green",
+              "1 seasonal fruit (whole, not juice)"
+            ],
+            "prefer": [
+              "Spinach (keerai)",
+              "Drumstick leaves",
+              "Bitter gourd",
+              "Bottle gourd",
+              "Ridge gourd",
+              "Cabbage",
+              "Beans",
+              "Carrot",
+              "Tomato",
+              "Guava",
+              "Papaya",
+              "Apple"
+            ],
+            "limit": [
+              "Mango (large portions)",
+              "Banana (large portions in diabetics)",
+              "Sapota"
+            ]
+          }
+        },
+        {
+          "subsection": "3.7 Salt Intake",
+          "content": {
+            "who_recommendation": "<5 grams per day (<1 teaspoon)",
+            "reduce": [
+              "Pickles",
+              "Papad",
+              "Salted snacks",
+              "Processed foods"
+            ],
+            "high_salt_increases": [
+              "Hypertension",
+              "Stroke risk",
+              "Kidney disease"
+            ]
+          }
+        },
+        {
+          "subsection": "3.8 Sugar Intake",
+          "content": {
+            "who_recommendation": [
+              "Free sugars <10% of total energy",
+              "Preferably <5%"
+            ],
+            "avoid": [
+              "Sugary chai multiple times daily",
+              "Sweet coffee",
+              "Sweets after every meal",
+              "Sweet beverages"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "section_number": 4,
+      "section_title": "Physical Activity (WHO 2020 Guidelines)",
+      "content": {
+        "adults_18_64": {
+          "minimum": [
+            "150–300 minutes moderate activity/week",
+            "OR",
+            "75–150 minutes vigorous activity"
+          ],
+          "plus": "Muscle strengthening 2 days/week"
+        },
+        "examples_indian_context": [
+          "Brisk walking",
+          "Cycling",
+          "Traditional farming work",
+          "Yoga",
+          "Surya Namaskar",
+          "Climbing stairs",
+          "Household work"
+        ],
+        "south_indian_practical_advice": "30–45 min brisk walking daily + weekend strength training.",
+        "sedentary_risk": "Sitting >8 hours/day increases diabetes risk."
+      }
+    },
+    {
+      "section_number": 5,
+      "section_title": "Healthy Weight and BMI",
+      "content": {
+        "asian_indian_bmi": {
+          "normal": "18.5–22.9 kg/m²",
+          "overweight": "23–24.9",
+          "obese": "≥25"
+        },
+        "waist_circumference_risk": {
+          "men": ">90 cm",
+          "women": ">80 cm"
+        },
+        "note": "Central obesity is very common in South Indians."
+      }
+    },
+    {
+      "section_number": 6,
+      "section_title": "Diabetes Prevention and Control",
+      "content": {
+        "high_risk_factors": [
+          "Family history",
+          "Sedentary job",
+          "High white rice consumption",
+          "Abdominal fat",
+          "Poor sleep",
+          "Stress"
+        ],
+        "targets_general_diabetic_adults": {
+          "hba1c": "<7% (individualized)",
+          "fasting_glucose": "80–130 mg/dL",
+          "post_meal_glucose": "<180 mg/dL"
+        },
+        "annual_tests": [
+          "Eye exam",
+          "Kidney function test",
+          "Lipid profile",
+          "Foot exam"
+        ]
+      }
+    },
+    {
+      "section_number": 7,
+      "section_title": "Sleep Guidelines",
+      "content": {
+        "adults": "7–9 hours per night",
+        "poor_sleep_increases": [
+          "Insulin resistance",
+          "Weight gain",
+          "Blood pressure"
+        ],
+        "avoid": [
+          "Late-night heavy dinners",
+          "Screen exposure before bed",
+          "Caffeine after 6 PM"
+        ]
+      }
+    },
+    {
+      "section_number": 8,
+      "section_title": "Stress and Mental Health",
+      "content": {
+        "chronic_stress_increases": [
+          "Cortisol",
+          "Blood sugar",
+          "Blood pressure"
+        ],
+        "healthy_coping": [
+          "Meditation",
+          "Yoga",
+          "Prayer",
+          "Community engagement",
+          "Talking to family",
+          "Physical activity"
+        ],
+        "avoid": [
+          "Emotional eating",
+          "Smoking",
+          "Alcohol misuse"
+        ]
+      }
+    },
+    {
+      "section_number": 9,
+      "section_title": "Tobacco and Alcohol",
+      "content": {
+        "who_statement": "No safe level of tobacco.",
+        "avoid": [
+          "Smoking",
+          "Chewing tobacco",
+          "Gutka",
+          "Pan masala"
+        ],
+        "alcohol": "If consumed, limit strictly. Better: Avoid completely for diabetics."
+      }
+    },
+    {
+      "section_number": 10,
+      "section_title": "South Indian Meal Structuring Guidance",
+      "content": {
+        "healthy_plate_model": {
+          "vegetables": "50%",
+          "whole_grains_or_millets": "25%",
+          "protein": "25%"
+        },
+        "example_meal": {
+          "breakfast": "Idli (2 small) + sambar + vegetable",
+          "lunch": "Brown rice (1 cup) + sambar + poriyal + curd",
+          "dinner": "Millet dosa + chutney (minimal coconut) + vegetable"
+        },
+        "avoid": "Large white rice portions + no vegetables."
+      }
+    },
+    {
+      "section_number": 11,
+      "section_title": "Special Considerations for Indian Population",
+      "content": {
+        "indian_characteristics": [
+          "Develop diabetes at lower BMI",
+          "Have higher visceral fat",
+          "Higher insulin resistance"
+        ],
+        "therefore": [
+          "Earlier screening (age >30 if risk factors)",
+          "Lifestyle intervention is primary treatment",
+          "Weight loss of 5–7% reduces diabetes risk significantly"
+        ]
+      }
+    },
+    {
+      "section_number": 12,
+      "section_title": "Key Behavioral Recommendations",
+      "content": {
+        "recommendations": [
+          "Eat at fixed times",
+          "Avoid overeating at night",
+          "Walk after meals (10–15 minutes)",
+          "Reduce portion size gradually",
+          "Replace refined carbs with whole grains",
+          "Track weight monthly",
+          "Monitor blood sugar if at risk"
+        ]
+      }
+    },
+    {
+      "section_number": 13,
+      "section_title": "Clinical Red Flags (When to Refer Doctor)",
+      "content": {
+        "refer_if": [
+          "Persistent fasting glucose >130 mg/dL",
+          "Frequent urination + thirst",
+          "Sudden weight loss",
+          "Chest pain",
+          "Non-healing wounds",
+          "Severe fatigue"
+        ]
+      }
+    },
+    {
+      "section_number": 14,
+      "section_title": "Public Health Priority for India",
+      "content": {
+        "statement": "India has one of the highest numbers of diabetes cases globally.",
+        "higher_prevalence_due_to": [
+          "Sedentary IT jobs",
+          "High polished rice intake",
+          "Low protein intake",
+          "High refined carb consumption"
+        ],
+        "conclusion": "Lifestyle modification is the primary prevention strategy."
+      }
+    }
+  ]
+}

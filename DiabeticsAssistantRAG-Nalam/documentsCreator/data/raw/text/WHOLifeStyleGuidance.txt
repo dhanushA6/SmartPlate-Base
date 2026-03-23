@@ -1,0 +1,520 @@
+WHO-Based Healthy Lifestyle Guidance
+Context for Indian and South Indian Adults
+Version: RAG Injection Knowledge Base
+1. Foundational Source Authority
+
+This document is based on evidence-based recommendations from:
+
+World Health Organization
+
+International Diabetes Federation
+
+Indian Council of Medical Research
+
+National Institute of Nutrition
+
+Primary WHO guidelines referenced:
+
+WHO Healthy Diet Guidelines
+
+WHO Physical Activity Guidelines (2020)
+
+WHO Global Report on Diabetes
+
+WHO Cardiovascular Disease Prevention Guidelines
+
+2. Core Principles of a Healthy Lifestyle (WHO Framework)
+
+A healthy lifestyle consists of:
+
+Balanced nutrition
+
+Regular physical activity
+
+Healthy body weight maintenance
+
+Adequate sleep
+
+Stress management
+
+Avoidance of tobacco
+
+Limited alcohol intake
+
+Regular medical screening
+
+3. Healthy Diet Guidelines (WHO Adapted for Indian Context)
+3.1 Energy Balance
+
+Maintain energy intake equal to energy expenditure to prevent overweight and obesity.
+
+For Indian adults:
+
+Sedentary male: ~2000–2400 kcal/day
+
+Sedentary female: ~1600–2000 kcal/day
+
+Active individuals: +300–500 kcal
+
+3.2 Macronutrient Distribution (Recommended Range)
+
+Carbohydrates: 45–60% of total calories
+
+Protein: 15–20%
+
+Fat: 20–35%
+
+Fiber: ≥25–40 g/day
+
+For Indians, lower refined carbohydrate intake is strongly recommended due to high insulin resistance prevalence.
+
+3.3 Carbohydrate Guidance (Critical for Indian Population)
+Avoid or Limit:
+
+Polished white rice (especially large portions)
+
+Refined wheat (maida)
+
+White bread
+
+Sugary tea/coffee
+
+Sweets (laddu, jalebi, mysore pak)
+
+Sweetened beverages
+
+Fruit juices
+
+Prefer:
+
+Brown rice
+
+Parboiled rice
+
+Millets (ragi, foxtail millet, kambu, jowar)
+
+Whole wheat chapati
+
+Oats
+
+Broken wheat (dalia)
+
+Red rice
+
+Hand-pounded rice
+
+South Indian recommendation:
+Replace 50% white rice with millets or unpolished rice.
+
+3.4 Fat Intake
+
+WHO Recommendation:
+
+Total fat <30% of energy
+
+Saturated fat <10%
+
+Trans fat <1%
+
+Limit:
+
+Ghee (large quantities)
+
+Butter
+
+Vanaspati
+
+Deep-fried snacks (bajji, bonda, vada)
+
+Bakery products
+
+Prefer:
+
+Groundnut oil (limited)
+
+Mustard oil
+
+Sesame oil (traditional South Indian use)
+
+Rice bran oil
+
+Nuts (almonds, walnuts)
+
+Seeds (flax, chia)
+
+Avoid reheating oil multiple times.
+
+3.5 Protein Intake
+
+Protein requirement:
+0.8–1.2 g/kg body weight (higher if elderly or diabetic)
+
+Indian vegetarian sources:
+
+Toor dal
+
+Moong dal
+
+Channa
+
+Rajma
+
+Black channa
+
+Soybean
+
+Paneer (low-fat)
+
+Curd
+
+Non-vegetarian:
+
+Fish (especially sardines, mackerel)
+
+Egg whites
+
+Skinless chicken
+
+Avoid processed meats
+
+South Indian advice:
+Include sambar + vegetable + protein in every major meal.
+
+3.6 Fruits and Vegetables
+
+WHO:
+≥400 g per day (5 portions minimum)
+
+Indian adaptation:
+
+2 portions vegetables
+
+1 leafy green
+
+1 seasonal fruit (whole, not juice)
+
+Prefer:
+
+Spinach (keerai)
+
+Drumstick leaves
+
+Bitter gourd
+
+Bottle gourd
+
+Ridge gourd
+
+Cabbage
+
+Beans
+
+Carrot
+
+Tomato
+
+Guava
+
+Papaya
+
+Apple
+
+Limit:
+
+Mango (large portions)
+
+Banana (large portions in diabetics)
+
+Sapota
+
+3.7 Salt Intake
+
+WHO:
+<5 grams per day (<1 teaspoon)
+
+Reduce:
+
+Pickles
+
+Papad
+
+Salted snacks
+
+Processed foods
+
+High salt increases:
+
+Hypertension
+
+Stroke risk
+
+Kidney disease
+
+3.8 Sugar Intake
+
+WHO:
+Free sugars <10% of total energy
+Preferably <5%
+
+Avoid:
+
+Sugary chai multiple times daily
+
+Sweet coffee
+
+Sweets after every meal
+
+Sweet beverages
+
+4. Physical Activity (WHO 2020 Guidelines)
+
+Adults (18–64 years):
+
+Minimum:
+
+150–300 minutes moderate activity/week
+OR
+
+75–150 minutes vigorous activity
+
+Plus:
+
+Muscle strengthening 2 days/week
+
+Examples (Indian context):
+
+Brisk walking
+
+Cycling
+
+Traditional farming work
+
+Yoga
+
+Surya Namaskar
+
+Climbing stairs
+
+Household work
+
+South Indian practical advice:
+30–45 min brisk walking daily + weekend strength training.
+
+Sedentary risk:
+Sitting >8 hours/day increases diabetes risk.
+
+5. Healthy Weight and BMI
+
+For Asian Indians:
+
+Normal BMI:
+18.5–22.9 kg/m²
+
+Overweight:
+23–24.9
+
+Obese:
+≥25
+
+Waist circumference risk:
+Men >90 cm
+Women >80 cm
+
+Central obesity is very common in South Indians.
+
+6. Diabetes Prevention and Control
+
+High risk factors in Indians:
+
+Family history
+
+Sedentary job
+
+High white rice consumption
+
+Abdominal fat
+
+Poor sleep
+
+Stress
+
+Targets (general diabetic adults):
+
+HbA1c:
+<7% (individualized)
+
+Fasting glucose:
+80–130 mg/dL
+
+Post-meal glucose:
+<180 mg/dL
+
+Annual:
+
+Eye exam
+
+Kidney function test
+
+Lipid profile
+
+Foot exam
+
+7. Sleep Guidelines
+
+Adults:
+7–9 hours per night
+
+Poor sleep increases:
+
+Insulin resistance
+
+Weight gain
+
+Blood pressure
+
+Avoid:
+
+Late-night heavy dinners
+
+Screen exposure before bed
+
+Caffeine after 6 PM
+
+8. Stress and Mental Health
+
+Chronic stress increases:
+
+Cortisol
+
+Blood sugar
+
+Blood pressure
+
+Healthy coping:
+
+Meditation
+
+Yoga
+
+Prayer
+
+Community engagement
+
+Talking to family
+
+Physical activity
+
+Avoid:
+
+Emotional eating
+
+Smoking
+
+Alcohol misuse
+
+9. Tobacco and Alcohol
+
+WHO:
+No safe level of tobacco.
+
+Avoid:
+
+Smoking
+
+Chewing tobacco
+
+Gutka
+
+Pan masala
+
+Alcohol:
+If consumed, limit strictly.
+Better: Avoid completely for diabetics.
+
+10. South Indian Meal Structuring Guidance
+
+Healthy Plate Model (Adapted):
+
+Plate division:
+
+50% vegetables
+
+25% whole grains/millets
+
+25% protein
+
+Example South Indian Meal:
+Breakfast:
+Idli (2 small) + sambar + vegetable
+
+Lunch:
+Brown rice (1 cup) + sambar + poriyal + curd
+
+Dinner:
+Millet dosa + chutney (minimal coconut) + vegetable
+
+Avoid:
+Large white rice portions + no vegetables.
+
+11. Special Considerations for Indian Population
+
+Indians:
+
+Develop diabetes at lower BMI
+
+Have higher visceral fat
+
+Higher insulin resistance
+
+Therefore:
+
+Earlier screening (age >30 if risk factors)
+
+Lifestyle intervention is primary treatment
+
+Weight loss of 5–7% reduces diabetes risk significantly
+
+12. Key Behavioral Recommendations
+
+Eat at fixed times
+
+Avoid overeating at night
+
+Walk after meals (10–15 minutes)
+
+Reduce portion size gradually
+
+Replace refined carbs with whole grains
+
+Track weight monthly
+
+Monitor blood sugar if at risk
+
+13. Clinical Red Flags (When to Refer Doctor)
+
+Persistent fasting glucose >130 mg/dL
+
+Frequent urination + thirst
+
+Sudden weight loss
+
+Chest pain
+
+Non-healing wounds
+
+Severe fatigue
+
+14. Public Health Priority for India
+
+India has one of the highest numbers of diabetes cases globally.
+Urban South Indian populations show higher prevalence due to:
+
+Sedentary IT jobs
+
+High polished rice intake
+
+Low protein intake
+
+High refined carb consumption
+
+Lifestyle modification is the primary prevention strategy.

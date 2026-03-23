@@ -1,0 +1,254 @@
+{
+  "title": "WHO-Based Physical Activity and Exercise Guidance",
+  "context": "Detailed Physical Exercise and Activity Guidelines for Indian and South Indian Adults",
+  "version": "RAG Injection Knowledge Base – Physical Activity Module",
+  "sections": [
+    {
+      "section_number": 1,
+      "section_title": "Foundational Authority and Evidence Base",
+      "content": {
+        "based_on": [
+          "WHO Physical Activity Guidelines (2020)",
+          "WHO Global Action Plan on Physical Activity",
+          "Indian Council of Medical Research (ICMR) Lifestyle Guidelines",
+          "National Programme for Prevention and Control of Cancer, Diabetes, Cardiovascular Diseases and Stroke (NPCDCS)"
+        ],
+        "core_principle": "Physical activity is essential for prevention and control of diabetes, obesity, cardiovascular disease, hypertension, metabolic syndrome, depression, and premature mortality."
+      }
+    },
+    {
+      "section_number": 2,
+      "section_title": "Definition of Physical Activity vs Exercise",
+      "content": {
+        "physical_activity_definition": "Any bodily movement produced by skeletal muscles that requires energy expenditure.",
+        "exercise_definition": "Structured, planned, repetitive physical activity aimed at improving or maintaining physical fitness.",
+        "examples_physical_activity": [
+          "Walking to office",
+          "Climbing stairs",
+          "Household chores",
+          "Farming work",
+          "Carrying groceries"
+        ],
+        "examples_exercise": [
+          "Brisk walking program",
+          "Jogging",
+          "Gym training",
+          "Strength training",
+          "Yoga sessions",
+          "Cycling workouts"
+        ]
+      }
+    },
+    {
+      "section_number": 3,
+      "section_title": "WHO Recommended Activity Levels for Adults (18–64 years)",
+      "content": {
+        "moderate_intensity": "150–300 minutes per week",
+        "vigorous_intensity": "75–150 minutes per week",
+        "muscle_strengthening": "At least 2 days per week involving major muscle groups",
+        "additional_benefits": "More than 300 minutes moderate activity per week provides additional health benefits",
+        "reduce_sedentary_time": "Limit prolonged sitting and replace sedentary time with light physical activity."
+      }
+    },
+    {
+      "section_number": 4,
+      "section_title": "Intensity Classification",
+      "content": {
+        "light_activity": {
+          "description": "Minimal increase in heart rate",
+          "examples": [
+            "Slow walking",
+            "Light household work",
+            "Cooking",
+            "Casual standing work"
+          ]
+        },
+        "moderate_activity": {
+          "description": "Noticeable increase in heart rate and breathing",
+          "examples": [
+            "Brisk walking (5–6 km/hr)",
+            "Cycling on flat road",
+            "Traditional farming activity",
+            "Mopping floor",
+            "Surya Namaskar moderate pace"
+          ]
+        },
+        "vigorous_activity": {
+          "description": "Substantial increase in heart rate",
+          "examples": [
+            "Running",
+            "Fast cycling",
+            "High-intensity interval training (HIIT)",
+            "Competitive sports",
+            "Heavy manual labor"
+          ]
+        }
+      }
+    },
+    {
+      "section_number": 5,
+      "section_title": "Physical Activity for Diabetes Prevention and Control",
+      "content": {
+        "mechanism": [
+          "Improves insulin sensitivity",
+          "Enhances glucose uptake in muscles",
+          "Reduces visceral fat",
+          "Lowers HbA1c",
+          "Improves lipid profile"
+        ],
+        "recommended_for_diabetics": {
+          "aerobic_activity": "30–45 minutes daily",
+          "post_meal_walking": "10–15 minutes after meals",
+          "resistance_training": "2–3 times per week",
+          "avoid": "Skipping exercise for more than 2 consecutive days"
+        },
+        "clinical_effect": {
+          "hba1c_reduction": "0.5–1% possible with regular exercise",
+          "weight_loss_effect": "5–7% weight loss reduces diabetes risk significantly"
+        }
+      }
+    },
+    {
+      "section_number": 6,
+      "section_title": "Step Count Guidance for Indian Adults",
+      "content": {
+        "sedentary": "<5000 steps/day",
+        "low_active": "5000–7499 steps/day",
+        "moderately_active": "7500–9999 steps/day",
+        "active": "10000–12499 steps/day",
+        "highly_active": "≥12500 steps/day",
+        "indian_recommendation": "Minimum 8000–10000 steps per day for metabolic health improvement"
+      }
+    },
+    {
+      "section_number": 7,
+      "section_title": "Strength Training Guidelines",
+      "content": {
+        "frequency": "At least 2 times per week",
+        "muscle_groups": [
+          "Legs",
+          "Back",
+          "Chest",
+          "Arms",
+          "Core"
+        ],
+        "examples_indian_context": [
+          "Bodyweight squats",
+          "Push-ups",
+          "Resistance band exercises",
+          "Carrying water buckets (controlled)",
+          "Yoga strength poses"
+        ],
+        "benefits": [
+          "Improves muscle mass",
+          "Improves bone density",
+          "Reduces sarcopenia in elderly",
+          "Improves insulin sensitivity"
+        ]
+      }
+    },
+    {
+      "section_number": 8,
+      "section_title": "Yoga and Traditional Indian Physical Practices",
+      "content": {
+        "benefits": [
+          "Improves flexibility",
+          "Reduces stress",
+          "Improves autonomic balance",
+          "Reduces blood pressure",
+          "Improves glycemic control"
+        ],
+        "recommended_practices": [
+          "Surya Namaskar",
+          "Pranayama",
+          "Bhujangasana",
+          "Vrikshasana",
+          "Trikonasana"
+        ],
+        "frequency": "20–40 minutes daily"
+      }
+    },
+    {
+      "section_number": 9,
+      "section_title": "Sedentary Lifestyle Risks in Indian Urban Population",
+      "content": {
+        "high_risk_groups": [
+          "IT professionals",
+          "Office workers",
+          "Students",
+          "Drivers"
+        ],
+        "risks": [
+          "Increased insulin resistance",
+          "Abdominal obesity",
+          "Hypertension",
+          "Early onset diabetes",
+          "Fatty liver disease"
+        ],
+        "intervention": [
+          "Stand every 30–45 minutes",
+          "Use stairs instead of lift",
+          "Short walking breaks",
+          "Desk stretching"
+        ]
+      }
+    },
+    {
+      "section_number": 10,
+      "section_title": "Physical Activity for Elderly (65+ years)",
+      "content": {
+        "recommendation": "Same as adults but adjusted to ability",
+        "focus": [
+          "Balance training",
+          "Fall prevention exercises",
+          "Light resistance training",
+          "Walking"
+        ],
+        "avoid": [
+          "Sudden high-intensity workouts without medical clearance"
+        ]
+      }
+    },
+    {
+      "section_number": 11,
+      "section_title": "Warning Signs During Exercise",
+      "content": {
+        "stop_exercise_if": [
+          "Chest pain",
+          "Severe breathlessness",
+          "Dizziness",
+          "Palpitations",
+          "Joint swelling"
+        ],
+        "consult_doctor_if": [
+          "Known heart disease",
+          "Uncontrolled diabetes",
+          "Severe hypertension",
+          "Recent surgery"
+        ]
+      }
+    },
+    {
+      "section_number": 12,
+      "section_title": "Weekly Structured Exercise Plan Example (Indian Context)",
+      "content": {
+        "monday": "30 min brisk walking + 10 min stretching",
+        "tuesday": "Strength training (upper body)",
+        "wednesday": "45 min brisk walking",
+        "thursday": "Yoga session 30 min",
+        "friday": "Strength training (lower body)",
+        "saturday": "Cycling or sports",
+        "sunday": "Active rest (light walking)"
+      }
+    },
+    {
+      "section_number": 13,
+      "section_title": "Public Health Priority in India",
+      "content": {
+        "problem_statement": "Rapid urbanization and sedentary occupations have reduced daily physical activity in Indian populations.",
+        "key_issue": "South Indians have higher central obesity and insulin resistance at lower BMI levels.",
+        "solution": "Daily structured exercise combined with reduced sedentary time is essential to prevent diabetes and cardiovascular disease."
+      }
+    }
+  ]
+}

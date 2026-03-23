@@ -1,0 +1,273 @@
+{
+  "title": "Yoga Therapy for Diabetes Management",
+  "context": "Detailed Evidence-Informed Yoga Guidelines for Indian and South Indian Adults with Type 2 Diabetes and Pre-Diabetes",
+  "version": "RAG Injection Knowledge Base – Yoga Module",
+  "sections": [
+
+    {
+      "section_number": 1,
+      "section_title": "Clinical Rationale for Yoga in Diabetes",
+      "content": {
+        "pathophysiology_targets": [
+          "Insulin resistance",
+          "Visceral adiposity",
+          "Chronic inflammation",
+          "Sympathetic overactivity",
+          "Elevated cortisol levels",
+          "Sedentary behavior"
+        ],
+        "mechanisms_of_action": [
+          "Improves peripheral glucose uptake",
+          "Enhances insulin sensitivity",
+          "Reduces abdominal fat",
+          "Lowers stress-induced cortisol secretion",
+          "Improves autonomic nervous system balance",
+          "Reduces systemic inflammation markers"
+        ],
+        "clinical_outcomes_observed": [
+          "Reduction in HbA1c (0.5%–1%) with regular practice",
+          "Improved fasting glucose levels",
+          "Reduced postprandial glucose spikes",
+          "Lower blood pressure",
+          "Improved lipid profile"
+        ]
+      }
+    },
+
+    {
+      "section_number": 2,
+      "section_title": "Recommended Frequency and Duration",
+      "content": {
+        "minimum_frequency": "5 days per week",
+        "ideal_frequency": "Daily practice",
+        "session_duration": "30–60 minutes",
+        "recommended_structure": [
+          "Warm-up (5–10 minutes)",
+          "Asana practice (20–30 minutes)",
+          "Pranayama (10–15 minutes)",
+          "Relaxation/Meditation (5–10 minutes)"
+        ]
+      }
+    },
+
+    {
+      "section_number": 3,
+      "section_title": "Warm-Up Practices (Preparatory Movements)",
+      "content": {
+        "purpose": "Improve circulation and prevent injury",
+        "recommended_movements": [
+          "Neck rotations",
+          "Shoulder rolls",
+          "Wrist and ankle rotations",
+          "Gentle spinal twists",
+          "Marching in place"
+        ],
+        "duration": "5–10 minutes"
+      }
+    },
+
+    {
+      "section_number": 4,
+      "section_title": "Core Asanas Recommended for Diabetes",
+
+      "asanas": [
+
+        {
+          "name": "Surya Namaskar",
+          "benefits": [
+            "Full body metabolic activation",
+            "Improves insulin sensitivity",
+            "Enhances cardiovascular fitness",
+            "Reduces abdominal fat"
+          ],
+          "recommended_rounds": "5–12 rounds based on fitness level",
+          "caution": "Avoid fast pace in elderly or cardiac patients"
+        },
+
+        {
+          "name": "Bhujangasana (Cobra Pose)",
+          "benefits": [
+            "Stimulates abdominal organs",
+            "Improves pancreatic function",
+            "Reduces stress"
+          ],
+          "duration": "15–30 seconds hold, 3 repetitions"
+        },
+
+        {
+          "name": "Dhanurasana (Bow Pose)",
+          "benefits": [
+            "Massages pancreas",
+            "Improves digestion",
+            "Reduces abdominal fat"
+          ],
+          "caution": "Avoid in severe back pain"
+        },
+
+        {
+          "name": "Ardha Matsyendrasana (Half Spinal Twist)",
+          "benefits": [
+            "Improves digestion",
+            "Stimulates pancreatic secretion",
+            "Improves spinal flexibility"
+          ]
+        },
+
+        {
+          "name": "Vrikshasana (Tree Pose)",
+          "benefits": [
+            "Improves balance",
+            "Enhances neuromuscular coordination",
+            "Reduces stress"
+          ]
+        },
+
+        {
+          "name": "Trikonasana (Triangle Pose)",
+          "benefits": [
+            "Improves abdominal fat metabolism",
+            "Enhances insulin sensitivity",
+            "Improves flexibility"
+          ]
+        },
+
+        {
+          "name": "Pavanamuktasana",
+          "benefits": [
+            "Improves digestion",
+            "Reduces bloating",
+            "Enhances metabolic efficiency"
+          ]
+        }
+      ]
+    },
+
+    {
+      "section_number": 5,
+      "section_title": "Pranayama (Breathing Techniques)",
+      "content": {
+
+        "importance": "Reduces sympathetic overactivity and cortisol levels which worsen blood glucose control.",
+
+        "techniques": [
+
+          {
+            "name": "Anulom Vilom",
+            "benefits": [
+              "Balances autonomic nervous system",
+              "Reduces stress-induced hyperglycemia"
+            ],
+            "duration": "5–10 minutes"
+          },
+
+          {
+            "name": "Bhramari",
+            "benefits": [
+              "Reduces anxiety",
+              "Lowers blood pressure",
+              "Improves emotional regulation"
+            ]
+          },
+
+          {
+            "name": "Kapalbhati",
+            "benefits": [
+              "Improves abdominal metabolism",
+              "Enhances digestive fire",
+              "May improve insulin sensitivity"
+            ],
+            "caution": "Avoid in uncontrolled hypertension, hernia, pregnancy"
+          }
+        ]
+      }
+    },
+
+    {
+      "section_number": 6,
+      "section_title": "Meditation and Stress Reduction",
+      "content": {
+        "importance": "Chronic stress elevates cortisol, which increases blood glucose levels.",
+        "recommended_methods": [
+          "Mindfulness meditation",
+          "Guided relaxation",
+          "Yoga Nidra",
+          "Om chanting"
+        ],
+        "duration": "10–15 minutes daily",
+        "expected_benefits": [
+          "Improved glycemic control",
+          "Reduced emotional eating",
+          "Improved sleep quality"
+        ]
+      }
+    },
+
+    {
+      "section_number": 7,
+      "section_title": "Special Precautions for Diabetic Individuals",
+      "content": {
+        "avoid_practice_if": [
+          "Severe hypoglycemia",
+          "Uncontrolled blood pressure",
+          "Severe neuropathy",
+          "Retinopathy with bleeding risk"
+        ],
+        "monitor": [
+          "Check blood sugar before long sessions",
+          "Avoid intense inversions in advanced retinopathy"
+        ],
+        "foot_care": "Use proper mat and inspect feet regularly in neuropathy."
+      }
+    },
+
+    {
+      "section_number": 8,
+      "section_title": "Yoga for Obese South Indian Population",
+      "content": {
+        "common_risk_profile": [
+          "Central obesity",
+          "High polished rice intake",
+          "Sedentary IT jobs"
+        ],
+        "recommended_focus": [
+          "Dynamic Surya Namaskar",
+          "Core strengthening",
+          "Daily brisk walking + yoga combination",
+          "Abdominal fat reduction postures"
+        ],
+        "goal": "Reduce waist circumference below 90 cm (men) and 80 cm (women)."
+      }
+    },
+
+    {
+      "section_number": 9,
+      "section_title": "Expected Timeline of Benefits",
+      "content": {
+        "2_weeks": "Improved energy and sleep",
+        "4_weeks": "Reduction in fasting glucose",
+        "8_to_12_weeks": "Improved HbA1c",
+        "long_term": "Reduced medication requirement in some individuals under medical supervision"
+      }
+    },
+
+    {
+      "section_number": 10,
+      "section_title": "Integration with Medical Care",
+      "content": {
+        "not_a_replacement": "Yoga complements but does not replace medical treatment.",
+        "combine_with": [
+          "Balanced diet",
+          "Regular walking",
+          "Medication adherence",
+          "Regular glucose monitoring"
+        ],
+        "medical_supervision_required_for": [
+          "Insulin users",
+          "Cardiac patients",
+          "Elderly with multiple conditions"
+        ]
+      }
+    }
+
+  ]
+}

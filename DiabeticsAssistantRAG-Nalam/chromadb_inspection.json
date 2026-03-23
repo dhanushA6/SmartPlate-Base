@@ -1,0 +1,29 @@
+{
+    "inspection_time": "2026-03-04T00:08:09.407203",
+    "database_path": "./nalam_chroma_db",
+    "num_collections": 1,
+    "collections": [
+        {
+            "collection_name": "nalam_knowledge",
+            "total_documents": 23280,
+            "embedding_stats": {
+                "embedding_dimension": 384,
+                "num_embeddings": 23280,
+                "norm_mean": 1.0000000097833925,
+                "norm_min": 0.9999998528445064,
+                "norm_max": 1.0000001666139657
+            },
+            "chunk_stats": {
+                "avg_chunk_length": 922.7367697594502,
+                "min_chunk_length": 2,
+                "max_chunk_length": 1000,
+                "total_characters": 21481312
+            },
+            "metadata_keys": [
+                "source",
+                "title",
+                "url"
+            ]
+        }
+    ]
+}

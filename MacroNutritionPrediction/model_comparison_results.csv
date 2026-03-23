@@ -1,0 +1,7 @@
+Model,daily_calories_kcal,daily_carbohydrates_g,daily_protein_g,daily_fat_g,daily_fiber_g
+ElasticNet,1588.54,141.4,81.16,62.37,35.31
+ExtraTrees,1867.95,165.52,85.3,74.29,36.21
+LightGBM,1731.48,148.19,70.92,76.36,33.99
+RandomForest,1786.09,158.98,83.14,71.49,34.97
+Ridge,1597.79,142.31,81.59,62.59,35.26
+XGBoost,1695.87,134.03,72.59,72.75,34.3

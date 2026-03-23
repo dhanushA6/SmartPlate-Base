@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+joblib
+xgboost
+faiss-cpu
+sentence-transformers
+jupyter
+ipykernel

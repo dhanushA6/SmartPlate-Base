@@ -1,0 +1,21 @@
+user_id,patient_label,age,gender,primary_goal,physical_activity_level,veg_only,meal_type,hba1c_percent,triglycerides_mg_dl,ldl_cholesterol_mg_dl,systolic_bp_mmHg,diastolic_bp_mmHg
+1,P01 | Young Athletic Male – Well-Controlled,25,Male,Muscle gain,High,True,breakfast,5.8,110.0,90.0,115.0,72.0
+2,P02 | Middle-Aged Obese Female – Poor Control + HTN,52,Female,Weight loss,Sedentary,False,breakfast,9.2,290.0,180.0,158.0,98.0
+3,P03 | Elderly Male – Long T2D + CKD Stage 3,72,Male,Blood sugar control,Low,False,lunch,7.8,195.0,130.0,148.0,88.0
+4,"P04 | Young Female – Underweight, Tight Control",22,Female,Weight gain,Moderate,False,lunch,6.1,85.0,75.0,108.0,65.0
+5,P05 | Middle-Aged Male – Smoker + Dyslipidemia,48,Male,Cholesterol management,Low,False,breakfast,8.0,320.0,195.0,140.0,90.0
+6,P06 | Elderly Frail Female – Multiple Comorbidities,78,Female,Blood sugar control,Sedentary,True,snack,7.2,175.0,115.0,162.0,85.0
+7,P07 | Overweight Male – Alcohol User,38,Male,Weight loss,Moderate,True,snack,7.5,260.0,140.0,132.0,82.0
+8,P08 | Post-Menopausal Female – Cardiovascular Risk,60,Female,Heart health,Moderate,True,dinner,7.0,220.0,160.0,138.0,84.0
+9,"P09 | Adolescent Male – Early-Onset T2D, Obese",17,Male,Weight loss,Low,True,breakfast,8.5,200.0,120.0,128.0,80.0
+10,P10 | Lean Active Male – Stress-Induced Hyperglycemia,35,Male,Blood sugar control,High,False,lunch,6.8,130.0,100.0,120.0,75.0
+11,P11 | Morbidly Obese Female – Sleep Apnea,45,Female,Weight loss,Sedentary,True,breakfast,10.1,380.0,200.0,165.0,102.0
+12,"P12 | Older Male – Normal BMI, Moderate Control",65,Male,Blood sugar control,Moderate,False,lunch,7.3,150.0,105.0,135.0,80.0
+13,"P13 | Young Female – PCOS-Related T2D, Overweight",29,Female,Weight loss,Low,False,dinner,7.1,180.0,125.0,125.0,78.0
+14,"P14 | Male – Advanced CKD (Stage 4), Protein-Restricted",58,Male,Blood sugar control,Low,True,dinner,7.6,210.0,135.0,150.0,92.0
+15,P15 | Middle-Aged Female – Smoker + Alcohol + Sedentary,44,Female,Weight loss,Sedentary,True,dinner,9.5,300.0,175.0,155.0,97.0
+16,P16 | Tall Lean Male – Excellent Metabolic Profile,32,Male,Muscle gain,High,False,snack,5.9,90.0,80.0,112.0,68.0
+17,"P17 | Older Female – Normal BMI, Long-Duration T2D",68,Female,Blood sugar control,Low,False,lunch,7.4,165.0,118.0,140.0,85.0
+18,"P18 | Overweight Male – Night Shift, Sleep Deprived",36,Male,Weight loss,Moderate,True,snack,8.3,240.0,148.0,136.0,86.0
+19,"P19 | Female Athlete – Very Lean, High Activity",27,Female,Muscle gain,High,False,snack,6.0,80.0,72.0,108.0,64.0
+20,"P20 | Very Elderly Male – ESKD, Frail, Complex Management",84,Male,Blood sugar control,Sedentary,True,breakfast,7.0,155.0,100.0,155.0,88.0
